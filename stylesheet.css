@@ -1,0 +1,39 @@
+body {
+    background-color: BlanchedAlmond;
+}
+h1 {
+    color: black;
+    font-family: 'Libre Barcode 128 Text', cursive;
+    font-size: 100px;
+    font-weight: lighter;
+    text-align:center;
+}
+h3 {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 35px;
+    text-align:center;
+}
+h4{
+  font-family: 'Khand', sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+h5{
+  font-family: 'Khand', sans-serif;
+  font-size: 20px;
+  text-align: center;
+  font-weight: lighter;
+}
+
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+p {
+  font-family: 'Khand', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
